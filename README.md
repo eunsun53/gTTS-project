@@ -1,1 +1,1 @@
-colab 에서 진행한 gTTS 실습 
+gTTS 를 이용한 음성생성 machine learning 
